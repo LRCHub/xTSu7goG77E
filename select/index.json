@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "世界でいちばん熱い夏",
+  "base_artist": "PRINCESS PRINCESS",
+  "createdAt": "2026-02-20T07:53:46.003680Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "世界でいちばん熱い夏",
+      "artist": "Princess Princess",
+      "has_synced": false,
+      "path": "select/01_世界でいちばん熱い夏_Princess_Princess.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "世界でいちばん熱い夏",
+      "artist": "PRINCESS PRINCESS",
+      "has_synced": true,
+      "path": "select/02_世界でいちばん熱い夏_PRINCESS_PRINCESS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "世界でいちばん熱い夏",
+      "artist": "PRINCESS PRINCESS",
+      "has_synced": true,
+      "path": "select/03_世界でいちばん熱い夏_PRINCESS_PRINCESS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "世界でいちばん熱い夏",
+      "artist": "プリンセス・プリンセス",
+      "has_synced": true,
+      "path": "select/04_世界でいちばん熱い夏_プリンセス・プリンセス.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "世界でいちばん熱い夏 (平成レコーディング)　08ver.",
+      "artist": "PRINCESS PRINCESS",
+      "has_synced": false,
+      "path": "select/05_世界でいちばん熱い夏_(平成レコーディング)_08ver._PRINCESS_PRINCESS.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "プリンセス プリンセス　『世界でいちばん熱い夏』",
+      "artist": "PRINCESS PRINCESS",
+      "has_synced": false,
+      "path": "select/06_プリンセス_プリンセス_『世界でいちばん熱い夏』_PRINCESS_PRINCESS.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "世界でいちばん熱い夏 ('92 mix)",
+      "artist": "PRINCESS PRINCESS",
+      "has_synced": true,
+      "path": "select/07_世界でいちばん熱い夏_('92_mix)_PRINCESS_PRINCESS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "世界でいちばん熱い夏 (平成レコーディング)",
+      "artist": "PRINCESS PRINCESS",
+      "has_synced": true,
+      "path": "select/08_世界でいちばん熱い夏_(平成レコーディング)_PRINCESS_PRINCESS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "世界でいちばん熱い夏（平成レコーディング） - Sekaide Ichiban Atsui Natsu (Heisei Recording)",
+      "artist": "PRINCESS PRINCESS",
+      "has_synced": true,
+      "path": "select/09_世界でいちばん熱い夏(平成レコーディング)_-_Sekaide_Ichiban_Atsui_Natsu_(Heisei_Recording)_PRINCESS_PRINCESS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "世界でいちばん熱い夏 (平成レコーディング) 08ver.",
+      "artist": "PRINCESS PRINCESS",
+      "has_synced": true,
+      "path": "select/10_世界でいちばん熱い夏_(平成レコーディング)_08ver._PRINCESS_PRINCESS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "世界でいちばん熱い夏（平成レコーディング）",
+      "artist": "PRINCESS PRINCESS",
+      "has_synced": true,
+      "path": "select/11_世界でいちばん熱い夏(平成レコーディング)_PRINCESS_PRINCESS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "世界でいちばん熱い夏(平成ver.)  (at 豊洲PIT LIVE2016.3.26)",
+      "artist": "Princess Princess",
+      "has_synced": false,
+      "path": "select/12_世界でいちばん熱い夏(平成ver.)_(at_豊洲PIT_LIVE2016.3.26)_Princess_Princess.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "世界でいちばん熱い夏 ［平成レコーディング］",
+      "artist": "プリンセス・プリンセス",
+      "has_synced": true,
+      "path": "select/13_世界でいちばん熱い夏_[平成レコーディング]_プリンセス・プリンセス.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "世界でいちばん熱い夏 ('92 mix)",
+      "artist": "プリンセス プリンセス",
+      "has_synced": true,
+      "path": "select/14_世界でいちばん熱い夏_('92_mix)_プリンセス_プリンセス.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世界でいちばん熱い夏",
+      "artist": "PRINCESS PRINCESS",
+      "has_synced": false,
+      "path": "select/pl_01_世界でいちばん熱い夏_PRINCESS_PRINCESS.txt"
+    }
+  ]
+}
